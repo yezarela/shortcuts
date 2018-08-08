@@ -1,2 +1,2 @@
 # shortcuts
-coming soon
+Make your life easier with shortcuts.
